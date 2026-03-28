@@ -170,4 +170,4 @@ Prompt Engineering: Técnicas de estruturação de contexto e diretrizes de comp
 Desenvolver este copiloto exigiu conectar a teoria de Back-end (lógica de decisão e variáveis) com a prática de Estratégia Comercial que vivenciei sendo corretor de imóveis em São Paulo. O maior desafio foi garantir que a IA não fosse "empurradora de produtos", mas sim uma consultora que utiliza a dor do cliente (preço, entrada, rentabilidade) como trampolim para uma solução de investimento real.
 
 👨‍💻 Autor
-Jeferson Amaro Estudante de Ciência da Computação @ UNINTER GitHub - JeAmaro03 | LinkedIn : https://www.linkedin.com/in/jefersonamaro/
+Jeferson Amaro - Estudante de Ciência da Computação @ UNINTER -  GitHub - JeAmaro03 | LinkedIn : https://www.linkedin.com/in/jefersonamaro/
